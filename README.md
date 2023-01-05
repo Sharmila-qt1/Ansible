@@ -22,7 +22,7 @@
 # Change PasswordAuthentication to yes
  sudo systemctl restart sshd
 ---
-![preview](image.png)
+![preview](image.jpg)
 * create user "jenkins" in two nodes same user and password for better configuration
 * Lets make jenkins administrator
 ---
